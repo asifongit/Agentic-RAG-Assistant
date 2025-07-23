@@ -1,0 +1,34 @@
+# 🚫 Ignore FAISS index folders
+faiss_index*/
+*.faiss
+
+# 📦 Ignore virtual environment
+venv/
+
+# 🔒 Ignore environment files
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# 🖼️ Optional: ignore screenshots (keep images used in README)
+*.png
+*.jpg
+*.jpeg
+
+# 💻 OS / Editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 📜 Streamlit and app caches
+.streamlit/
+
+# 📁 Ignore temporary or generated PDF files (if stored locally)
+*.pdf
