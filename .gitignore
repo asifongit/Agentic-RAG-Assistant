@@ -17,9 +17,9 @@ __pycache__/
 *.log
 
 # 🖼️ Optional: ignore screenshots (keep images used in README)
-*.png
-*.jpg
-*.jpeg
+# *.png
+# *.jpg
+# *.jpeg
 
 # 💻 OS / Editor-specific
 .DS_Store
