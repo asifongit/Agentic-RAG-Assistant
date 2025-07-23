@@ -6,7 +6,7 @@ This is a **Streamlit app** that lets you **chat with multiple PDF files** using
 
 ---
 ![Chat with PDFs Demo](images/pic.jpg)
-
+![alt text](image.png)
 ##  Features
 
 - 📄 Upload and process multiple PDFs at once.
