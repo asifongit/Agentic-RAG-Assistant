@@ -5,9 +5,6 @@ This is a **Streamlit app** that lets you **chat with multiple PDF files** using
 > Upload any number of PDF files, ask questions, and get answers based on the actual content of those documents. No hallucination. No guesswork.
 
 ---
-![Chat with PDFs Demo](images/pic.jpg)
-
-
 
 ##  Features
 
