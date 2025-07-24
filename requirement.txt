@@ -1,8 +1,10 @@
-streamlit
+
 python-dotenv
 langchain
 PyPDF2
-faiss-cpu
-langchain_google_genai
-langchain-ollama
-langchain-community
+crewai_tools
+flask
+crewai
+chromadb
+sentence-transformers
+
