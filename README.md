@@ -1,9 +1,12 @@
 
+
+
+![Project Banner](https://placehold.co/1200x300/1a1a2e/ffffff?text=Agentic%20RAG%20Assistant)
+
 # Agentic RAG Assistant
 
   
 
-![Project Banner](https://placehold.co/1200x300/1a1a2e/ffffff?text=Agentic%20RAG%20Assistant)
 
   
 
