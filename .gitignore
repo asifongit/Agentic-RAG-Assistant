@@ -54,12 +54,17 @@ ehthumbs.db # Windows
 instance/
 .webassets-cache/
 
+# CrewAI / RAG / ChromaDB specific
+# This is crucial for your project!
+# Ignore the directory where your vector database (ChromaDB) stores its data.
+# Based on your commit, it seems to be in 'db/' instead of 'chroma/'.
+db/
 
-chroma/
+# Ignore the directory where uploaded PDFs are stored
+# This prevents uploaded user files from being committed to Git.
+uploads/
 
-# uploads/
-
-# Ignore any generated embeddings or temporary RAG data if not in chroma/
+# Ignore any generated embeddings or temporary RAG data if not in db/
 # *.pkl
 # *.bin
 
