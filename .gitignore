@@ -5,6 +5,10 @@
 *.pyo
 __pycache__/
 
+
+# Ignore Chroma DB files
+db/
+*.sqlite3
 # Distribution / packaging
 .Python
 env/
